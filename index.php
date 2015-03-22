@@ -20,7 +20,7 @@
 <div id="JDan" class="hoverBox">JackDaniel</div>
 <div id="Zatno" class="hoverBox">Zatno</div>
 
-Code : 1 4 6 26 42 3 11
+<!--Code : 1 4 6 26 42 3 11
 
 1) Izi
 2) Airwinne candid
@@ -28,4 +28,6 @@ Code : 1 4 6 26 42 3 11
 4) Histoire
 5) mil drop tutu
 6) Nbre de CC du piloz
-7) Mom et la musique    
+7) Mom et la musique
+
+Notes pour un event passé.-->
