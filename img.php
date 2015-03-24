@@ -1,6 +1,6 @@
 <?php
 	header("Content-type:image/png");
-	$img=imagecreate(200,200);
+	$img=imagecreate(400,200);
 
 	$belorange = imagecolorallocate($img, 255, 128, 0);
 	$blancdezappy = imagecolorallocate($img, 255, 255, 254);
